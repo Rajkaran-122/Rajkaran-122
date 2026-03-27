@@ -180,23 +180,23 @@ i believe in using the right tool for the right job. here's what i reach for dep
 ### 🎯 what i'm up to right now
 
 ```text
-🌅 Morning    → coffee + code + pretend i'm productive
-🌞 Afternoon  → actually productive (most days)
-🌃 Night      → "one more feature" → 3am → regret → repeat
-🌙 Weekend    → open source / side projects / learning something random
-🔨 building projects that solve real problems (or at least look like they do)
-📚 deep diving into system design & scalable architectures
-🧠 grinding DSA because interviews don't care about your cool projects
-🤝 looking for open source projects where i can actually contribute something useful
-✍️ might start writing tech blogs soon (been saying this for months)
-🐍 watch my contributions get eaten
+Morning    → coffee + code + pretend i'm productive
+Afternoon  → actually productive (most days)
+Night      → "one more feature" → 3am → regret → repeat
+Weekend    → open source / side projects / learning something random
+ building projects that solve real problems (or at least look like they do)
+ deep diving into system design & scalable architectures
+ grinding DSA because interviews don't care about your cool projects
+ looking for open source projects where i can actually contribute something useful
+ might start writing tech blogs soon (been saying this for months)
+watch my contributions get eaten
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-snake.svg" /> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-snake.svg" /> </picture> </div><!-- HOW TO SET UP THE SNAKE ↓ 1. go to your Rajkaran-122 repo 2. click "Actions" tab 3. click "New workflow" → "set up a workflow yourself" 4. name it: snake.yml 5. paste this: name: Snake on: schedule: - cron: "0 */6 * * *" workflow_dispatch: jobs: snake: runs-on: ubuntu-latest steps: - uses: Platane/snk@v3 with: github_user_name: Rajkaran-122 outputs: | dist/github-snake.svg dist/github-snake-dark.svg?palette=github-dark - uses: crazy-max/ghaction-github-pages@v3.1.0 with: target_branch: output build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 6. commit it 7. go to Actions → click "Snake" → "Run workflow" 8. done. it runs automatically every 6 hours now -->
-💬 random mass quote because every readme needs one
+random mass quote because every readme needs one
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/> </div>
-📫 let's connect — i don't bite (usually)
+let's connect — i don't bite (usually)
 <div align="center"><a href="https://github.com/Rajkaran-122"> <img src="https://img.shields.io/badge/-Rajkaran--122-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/YOUR-LINKEDIN"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOUR-EMAIL@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/YOUR-TWITTER"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://instagram.com/YOUR-INSTAGRAM"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://YOUR-PORTFOLIO.com"> <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://discord.com/users/YOUR-DISCORD-ID"> <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a></div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/> <br>
-thanks for scrolling this far. you're a real one. 🤝
+thanks for scrolling this far. you're a real one. 
 
 if something i built helped you or you just liked it — drop a ⭐
 
