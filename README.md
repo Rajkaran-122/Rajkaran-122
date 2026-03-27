@@ -34,33 +34,35 @@ i'm not the "i know everything" type. i google stuff daily. stackoverflow is my 
 
 ### ☕ a typical day in my life (in code)
 
+```javascript
 const rajkaran = {
     pronouns: "he/him",
     location: "India 🇮🇳",
-    
+    portfolio: "https://portfolio-raaj.vercel.app",
+
     daily_routine: async () => {
         while (alive) {
             const coffee = await brew("strong");
-            
+
             eat(coffee);
             code();
             debug();
             google("why is this not working");
             stackoverflow.copy();
             code_again();
-            
+
             if (time === "3am") {
                 console.log("just one more feature...");
                 // narrator: it was never just one more feature
             }
-            
+
             commit("fix: fixed the fix that fixed the previous fix");
             push("--force"); // don't judge me
-            
+
             sleep(Math.random() * 4); // hours, optimistically
         }
     },
-    
+
     superpower: "mass debugging with console.log() and being proud of it",
     weakness: "naming variables and closing browser tabs"
 };
@@ -250,7 +252,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ### 🎯 what i'm up to right now
 
-```text
+```
 🌅 Morning    → coffee + code + pretend i'm productive
 🌞 Afternoon  → actually productive (most days)
 🌃 Night      → "one more feature" → 3am → regret → repeat
@@ -273,14 +275,6 @@ i believe in using the right tool for the right job. here's what i reach for dep
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajkaran-122&repo=Rajkaran-122&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
-<!-- 
-DUPLICATE THIS BLOCK FOR MORE PINNED REPOS:
-
-<a href="https://github.com/Rajkaran-122/YOUR-REPO-NAME">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajkaran-122&repo=YOUR-REPO-NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
--->
-
 </div>
 
 ---
@@ -294,45 +288,6 @@ DUPLICATE THIS BLOCK FOR MORE PINNED REPOS:
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-snake.svg" />
   </picture>
 </div>
-
-<!--
-HOW TO SET UP THE SNAKE:
-
-1. go to your Rajkaran-122 repo
-2. click "Actions" tab
-3. click "New workflow" → "set up a workflow yourself"
-4. name it: snake.yml
-5. paste this:
-
-name: Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rajkaran-122
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-6. commit it
-7. go to Actions → click "Snake" → "Run workflow"
-8. done. it runs automatically every 6 hours now
--->
 
 ---
 
@@ -367,6 +322,9 @@ jobs:
 <a href="https://github.com/Rajkaran-122">
   <img src="https://img.shields.io/badge/-Rajkaran--122-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://portfolio-raaj.vercel.app">
+  <img src="https://img.shields.io/badge/-Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -379,9 +337,6 @@ jobs:
 <a href="https://instagram.com/YOUR-INSTAGRAM">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://YOUR-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 <a href="https://discord.com/users/YOUR-DISCORD-ID">
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
@@ -392,29 +347,27 @@ jobs:
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
-  <br>
+<br>
 
+```javascript
+if (youScrolledThisFar) {
+    respect++;
+    console.log("you're a real one 🤝");
+}
 ```
-          if (youScrolledThisFar) {
-              respect++;
-              console.log("you're a real one 🤝");
-          }
-```
 
-  <br>
+<br>
 
-  **thanks for visiting my little corner of github.**
-  
-  if something i built helped you — or you just thought it was cool — drop a ⭐
-  
-  it costs you nothing but it genuinely makes my day.
+**thanks for visiting my little corner of github.**
 
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer" width="100%"/>
+if something i built helped you — or you just thought it was cool — drop a ⭐
+
+it costs you nothing but it genuinely makes my day.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer" width="100%"/>
 
 </div>
-```
-
