@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 who am i?
+###  who am i?
 
 not some AI-generated bio — just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
@@ -32,7 +32,7 @@ i'm not the "i know everything" type. i google stuff daily. stackoverflow is my 
 
 ---
 
-### ☕ a typical day in my life (in code)
+###  a typical day in my life (in code)
 
 ```javascript
 const rajkaran = {
@@ -70,12 +70,12 @@ const rajkaran = {
 
 ---
 
-### ⚡ tech i actually use (not just list for show)
+###  tech i actually use (not just list for show)
 
 i believe in using the right tool for the right job. here's what i reach for depending on what i'm building:
 
 <details>
-<summary><b>🔤 Languages — click to expand</b></summary>
+<summary><b> Languages — click to expand</b></summary>
 <br>
 
 | language | comfort level | what i use it for |
@@ -102,7 +102,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 </details>
 
 <details>
-<summary><b>🧩 Frameworks & Libraries — click to expand</b></summary>
+<summary><b> Frameworks & Libraries — click to expand</b></summary>
 <br>
 
 **frontend**
@@ -155,7 +155,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 </details>
 
 <details>
-<summary><b>🗄️ Databases — click to expand</b></summary>
+<summary><b> Databases — click to expand</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -171,7 +171,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 </details>
 
 <details>
-<summary><b>🔧 Tools & DevOps — click to expand</b></summary>
+<summary><b> Tools & DevOps — click to expand</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -202,7 +202,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ---
 
-### 📊 numbers don't lie (but they don't tell the full story either)
+### numbers don't lie (but they don't tell the full story either)
 
 <div align="center">
 
@@ -223,7 +223,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ---
 
-### 🐍 my contributions
+###  My contributions
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkaran-122&theme=github_dark" width="95%"/>
@@ -239,7 +239,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkaran-122&theme=github_dark&utcOffset=5.5" />
 </div>
 
-### 🧠 things i've learned the hard way
+###  Things i've learned the hard way
 
 > these aren't from some productivity blog. these are from real screw-ups and late nights.
 
@@ -258,68 +258,43 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ---
 
-### 🎯 what i'm up to right now
+###  What i'm up to right now
 
 ```
-🌅 Morning    → coffee + code + pretend i'm productive
-🌞 Afternoon  → actually productive (most days)
-🌃 Night      → "one more feature" → 3am → regret → repeat
-🌙 Weekend    → open source / side projects / learning something random
+ Morning    → coffee + code + pretend i'm productive
+ Afternoon  → actually productive (most days)
+ Night      → "one more feature" → 3am → regret → repeat
+ Weekend    → open source / side projects / learning something random
 ```
 
-- 🔨 building projects that solve real problems (or at least look like they do)
-- 📚 deep diving into system design & scalable architectures
-- 🧠 grinding DSA because interviews don't care about your cool projects
-- 🤝 looking for open source projects where i can actually contribute something useful
-- ✍️ might start writing tech blogs soon (been saying this for months)
+- building projects that solve real problems (or at least look like they do)
+-  deep diving into system design & scalable architectures
+-  grinding DSA because interviews don't care about your cool projects
+-  looking for open source projects where i can actually contribute something useful
+-  might start writing tech blogs soon (been saying this for months)
 
 ---
 
-### 📌 stuff i'm proud of
 
-<div align="center">
 
-<a href="https://github.com/Rajkaran-122/Rajkaran-122">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajkaran-122&repo=Rajkaran-122&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
 
 ---
-
-### 🐍 watch my contributions get eaten
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 ### 🎵 current vibe while coding
 
 <div align="center">
 
 | when i'm coding | what's playing |
 |:---:|:---:|
-| 🐛 debugging | lo-fi beats to mass console.log to |
-| 🚀 shipping features | hans zimmer on full volume |
-| 📖 reading docs | complete silence (rare) |
-| 😤 merge conflicts | heavy metal |
-| ✅ tests passing | victory music from zelda |
+|  debugging | lo-fi beats to mass console.log to |
+|  shipping features | hans zimmer on full volume |
+|  reading docs | complete silence (rare) |
+|  merge conflicts | heavy metal |
+|  tests passing | victory music from zelda |
 
 </div>
 
 ---
 
-### 💬 random dev quote because every readme needs one
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
-</div>
 
 ---
 
@@ -333,22 +308,13 @@ i believe in using the right tool for the right job. here's what i reach for dep
 <a href="https://portfolio-raaj.vercel.app">
   <img src="https://img.shields.io/badge/-Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/rajkaran-yadav">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:yadavrajkaran854@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://twitter.com/YOUR-TWITTER">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://discord.com/users/YOUR-DISCORD-ID">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -376,6 +342,6 @@ it costs you nothing but it genuinely makes my day.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=500&section=footer" width="100%"/>
 
 </div>
