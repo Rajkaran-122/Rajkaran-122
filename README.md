@@ -191,9 +191,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 </div>
 
-> ☝️ **tip:** replace the repo name above with your best repos. duplicate the block for more cards.
-> 
-> example: change `repo=Rajkaran-122` to `repo=your-cool-project`
+
 
 ---
 
