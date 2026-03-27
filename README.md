@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 who am i?
+### who am i?
 
 not some AI-generated bio — just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
@@ -32,12 +32,12 @@ text
 
 ---
 
-### ⚡ tech i actually use (not just list for show)
+### tech i actually use (not just list for show)
 
 i believe in using the right tool for the right job. here's what i reach for depending on what i'm building:
 
 <details>
-<summary><b>🔤 Languages — click to expand</b></summary>
+<summary><b> Languages — click to expand</b></summary>
 <br>
 
 | language | comfort level | what i use it for |
@@ -64,7 +64,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 </details>
 
 <details>
-<summary><b>🧩 Frameworks & Libraries — click to expand</b></summary>
+<summary><b>Frameworks & Libraries — click to expand</b></summary>
 <br>
 
 **frontend**
@@ -113,7 +113,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 </details>
 
 <details>
-<summary><b>🗄️ Databases — click to expand</b></summary>
+<summary><b>Databases — click to expand</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -154,7 +154,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ---
 
-### 📊 numbers don't lie (but they don't tell the full story either)
+###  numbers don't lie (but they don't tell the full story either)
 
 <div align="center">
 
@@ -177,7 +177,7 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ---
 
-### 🎯 what i'm up to right now
+### what i'm up to right now
 
 ```text
 Morning    → coffee + code + pretend i'm productive
