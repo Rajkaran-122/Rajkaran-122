@@ -223,13 +223,21 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ---
 
-### 🏆 trophies (github's way of giving us dopamine)
+### 🐍 my contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajkaran-122&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkaran-122&theme=github_dark" width="95%"/>
 </div>
 
----
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkaran-122&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkaran-122&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkaran-122&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkaran-122&theme=github_dark&utcOffset=5.5" />
+</div>
 
 ### 🧠 things i've learned the hard way
 
