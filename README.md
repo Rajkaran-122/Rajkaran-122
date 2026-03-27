@@ -175,24 +175,6 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 ---
 
-### 🏆 trophies (github's way of giving us dopamine)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajkaran-122&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-### 📌 stuff i'm proud of
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rajkaran-122&repo=Rajkaran-122&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/Rajkaran-122/Rajkaran-122)
-
-</div>
-
-
-
 ---
 
 ### 🎯 what i'm up to right now
