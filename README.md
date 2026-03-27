@@ -211,15 +211,6 @@ i believe in using the right tool for the right job. here's what i reach for dep
 
 </div>
 
-<div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkaran-122&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkaran-122&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=my%20commit%20timeline%20(yes%20those%20gaps%20are%20me%20touching%20grass)" width="95%"/>
-</div>
 
 ---
 
