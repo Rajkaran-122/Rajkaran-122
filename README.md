@@ -342,6 +342,6 @@ it costs you nothing but it genuinely makes my day.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=500&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=300&section=footer" width="100%"/>
 
 </div>
