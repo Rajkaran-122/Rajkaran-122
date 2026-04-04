@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hey,%20I'm%20Rajkaran%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20stuff%20that%20works.%20Sometimes%20it%20even%20looks%20good.&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
 </div> 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajkaran-122&color=6e40c9&style=flat-square&label=people+stalking+my+profile" alt="views" />
-  <a href="https://github.com/Rajkaran-122?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rajkaran-122?color=236ad3&labelColor=1155ba&style=flat-square&logo=github&label=followers" alt="followers"/>
-  </a>
-  <a href="https://github.com/Rajkaran-122?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Rajkaran-122?color=e3b341&labelColor=c9982e&style=flat-square&logo=github&label=total+stars" alt="stars"/>
-  </a>
-</p>
 
 ---
 
