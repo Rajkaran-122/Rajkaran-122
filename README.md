@@ -9,7 +9,7 @@
 
 just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
-i'm **Rajkaran** — a developer from **India 🇮🇳** who genuinely enjoys building software. started with hello world like everyone else, got addicted, and now here we are. i don't just write code to get a job done — i actually care about how it's built, how it runs, and whether future-me will curse present-me for the decisions i made.
+i'm **Rajkaran** — a developer from **India ** who genuinely enjoys building software. started with hello world like everyone else, got addicted, and now here we are. i don't just write code to get a job done — i actually care about how it's built, how it runs, and whether future-me will curse present-me for the decisions i made.
 
 i'm not the "i know everything" type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
 
