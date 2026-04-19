@@ -7,7 +7,7 @@
 
 ###  who am i?
 
-not some AI-generated bio — just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
+just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
 i'm **Rajkaran** — a developer from **India 🇮🇳** who genuinely enjoys building software. started with hello world like everyone else, got addicted, and now here we are. i don't just write code to get a job done — i actually care about how it's built, how it runs, and whether future-me will curse present-me for the decisions i made.
 
@@ -141,60 +141,10 @@ i believe in using the right tool for the right job. here's what i reach for:
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkaran-122&theme=github_dark&utcOffset=5.5" />
 </div>
 
-###  Things i've learned the hard way
-
-> these aren't from some productivity blog. these are from real screw-ups and late nights.
-
-```
-01. git push --force on main is never "just this once"
-02. "it works on my machine" is not a valid deployment strategy
-03. the best code is the code you don't write
-04. naming things is genuinely one of the hardest problems in CS
-05. sleep > caffeine in the long run (still working on this one)
-06. reading docs first saves 3 hours of debugging later
-07. perfect is the enemy of shipped
-08. if you can't explain it simply, you don't understand it well enough
-09. every senior dev is just a junior dev who didn't quit
-10. the bug is always on the line you were "100% sure" was correct
-```
 
 ---
 
-###  What i'm up to right now
-
-```
- Morning    → coffee + code + pretend i'm productive
- Afternoon  → actually productive (most days)
- Night      → "one more feature" → 3am → regret → repeat
- Weekend    → open source / side projects / learning something random
-```
-
-- building projects that solve real problems (or at least look like they do)
--  deep diving into system design & scalable architectures
--  grinding DSA because interviews don't care about your cool projects
--  looking for open source projects where i can actually contribute something useful
--  might start writing tech blogs soon (been saying this for months)
-
 ---
-
-
-
-
----
-### 🎵 current vibe while coding
-
-<div align="center">
-
-| when i'm coding | what's playing |
-|:---:|:---:|
-|  debugging | lo-fi beats to mass console.log to |
-|  shipping features | hans zimmer on full volume |
-|  reading docs | complete silence (rare) |
-|  merge conflicts | heavy metal |
-|  tests passing | victory music from zelda |
-
-</div>
-
 ---
 
 
