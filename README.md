@@ -9,9 +9,9 @@
 
 just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
-i'm **Rajkaran** — a developer from **India**  who genuinely enjoys building software. started with hello world like everyone else, got addicted, and now here we are. i don't just write code to get a job done — i actually care about how it's built, how it runs, and whether future-me will curse present-me for the decisions i made.
+i'm **Rajkaran** — a developer from **India**  who genuinely enjoys building software.
 
-i'm not the "i know everything" type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
+i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
 
 ```
 → currently shipping:   some cool side projects (check my repos 👇)
@@ -23,131 +23,22 @@ i'm not the "i know everything" type. i google stuff daily. stackoverflow is my 
 
 ---
 
-###  a typical day in my life (in code)
+## 🛠️ tech i actually use
 
-```javascript
-const rajkaran = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    portfolio: "https://portfolio-raaj.vercel.app",
+languages
 
-    daily_routine: async () => {
-        while (alive) {
-            const coffee = await brew("strong");
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> </p>
+frameworks & libraries
 
-            eat(coffee);
-            code();
-            debug();
-            google("why is this not working");
-            stackoverflow.copy();
-            code_again();
+<p> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> </p>
+databases
 
-            if (time === "3am") {
-                console.log("just one more feature...");
-                // narrator: it was never just one more feature
-            }
+<p> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/> <img src="https://img.shields.io/badge/FAISS-0066CC?style=flat-square&logo=faiss&logoColor=white"/> </p>
+tools & devops
 
-            commit("fix: fixed the fix that fixed the previous fix");
-            push("--force"); // don't judge me
-
-            sleep(Math.random() * 4); // hours, optimistically
-        }
-    },
-
-    superpower: "mass debugging with console.log() and being proud of it",
-    weakness: "naming variables and closing browser tabs"
-};
-```
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/CI/CD-333333?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=rest&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-333333?style=flat-square&logo=ibm&logoColor=white"/> <img src="https://img.shields.io/badge/Agile-0066CC?style=flat-square&logo=agile&logoColor=white"/> <img src="https://img.shields.io/badge/Scrum-333333?style=flat-square&logo=scrum&logoColor=white"/> </p>
 
 ---
-
----
-
-### 🛠️ tech i actually use
-
-i believe in using the right tool for the right job. here's what i reach for:
-
-**languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-</p>
-
-**frameworks & libraries**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
-
-**databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</p>
-
-**tools & devops**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-
----
----
-
-### numbers don't lie (but they don't tell the full story either)
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajkaran-122&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=58a6ff" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Rajkaran-122&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=e34c26&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
-
----
-
-###  My contributions
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajkaran-122&theme=github_dark" width="95%"/>
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkaran-122&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajkaran-122&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajkaran-122&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajkaran-122&theme=github_dark&utcOffset=5.5" />
-</div>
-
-
----
-
----
----
-
-
 ---
 
 ### 🤝 let's connect — i don't bite (usually)
