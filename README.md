@@ -5,7 +5,7 @@
 
 ---
 
-###  who am i?
+### _________________________________________________________________who am i?___________________________________________________________________________________
 
 just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
@@ -13,7 +13,7 @@ i'm **Rajkaran** — a developer from **India**  who genuinely enjoys building s
 
 i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
 
-### 🤝 let's connect — i don't bite (usually)
+### _________________________________________________________🤝 let's connect — i don't bite (usually)_________________________________________________________
 
 <div align="center">
 
