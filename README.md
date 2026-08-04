@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=gradient&customColorList=12,14,20,26,30&text=Hey,%20I'm%20Rajkaran%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20stuff%20that%20works.%20Sometimes%20it%20even%20looks%20good.&descAlignY=55&descSize=18&descColor=e6edf3" width="100%"/>
+<<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=220&section=header&text=Hey,%20I'm%20Rajkaran%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20stuff%20that%20works.%20Sometimes%20it%20even%20looks%20good.&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
 ---
@@ -59,12 +59,14 @@ it costs you nothing but it genuinely makes my day.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12,14,20,26,30" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=200&section=footer" width="100%"/>
 </div>
 
 ## Activity
 
 ![github activity animated](./profile-3d-contrib/profile-season-animate.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12,14,20,26,30" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=200&section=footer" width="100%"/>
+</div>
