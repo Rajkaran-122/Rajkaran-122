@@ -40,16 +40,9 @@ i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
-<br>
-
-```javascript
-if (youScrolledThisFar) {
-    respect++;
-    console.log("you're a real one 🤝");
-}
-```
-
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=if%20(youScrolledThisFar)%20%7B&fontColor=ffffff&fontSize=26&desc=respect%2B%2B%3B%0Aconsole.log(%22you're%20a%20real%20one%20🤝%22)%3B%0A%7D&descAlignY=70&descAlign=50&descSize=18&descColor=c9d1d9" width="100%"/>
+</div>
 
 **thanks for visiting my little corner of github.**
 
