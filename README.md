@@ -39,18 +39,13 @@ i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=if%20(youScrolledThisFar)%20%7B&fontColor=ffffff&fontSize=26&desc=respect%2B%2B%3B%0Aconsole.log(%22you're%20a%20real%20one%20🤝%22)%3B%0A%7D&descAlignY=70&descAlign=50&descSize=18&descColor=c9d1d9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=if%20(youScrolledThisFar)%20%7B&fontSize=26&fontColor=10b981&desc=respect%2B%2B%3B%0Aconsole.log(%22you're%20a%20real%20one%20🤝%22)%3B%0A%7D&descAlign=50&descAlignY=70&descSize=18&descColor=10b981" width="100%"/>
 </div>
 
-**thanks for visiting my little corner of github.**
-
-if something i built helped you — or you just thought it was cool — drop a ⭐
-
-it costs you nothing but it genuinely makes my day.
-
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=190&section=header&text=thanks%20for%20visiting%20my%20little%20corner%20of%20github.&fontSize=24&fontColor=10b981&desc=if%20something%20i%20built%20helped%20you%20%E2%80%94%20or%20you%20just%20thought%20it%20was%20cool%20%E2%80%94%20drop%20a%20%E2%AD%90%0A%0Ait%20costs%20you%20nothing%20but%20it%20genuinely%20makes%20my%20day.&descAlign=50&descAlignY=68&descSize=17&descColor=10b981" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=200&section=footer" width="100%"/>
