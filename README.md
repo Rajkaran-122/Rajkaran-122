@@ -10,12 +10,11 @@
 
 <p align="center" style="font-size:20px; line-height:1.8;">
 
-just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
-<br><br>
-i'm <b>Rajkaran</b> — a developer from <b>India</b> who genuinely enjoys building software.
-<br><br>
-i'm not the <b>"I know everything"</b> type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
-</p>
+### Just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
+
+### I'm **Rajkaran** — a developer from **India** who genuinely enjoys building software.
+
+### I'm not the **"I know everything"** type. I Google stuff daily. Stack Overflow is my second home. But I learn fast, ship faster, and I don't give up on bugs easily.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=🤝%20Let%27s%20Connect%20%E2%80%94%20I%20Don%27t%20Bite%20%28Usually%29&fontSize=28&fontColor=ffffff" width="100%"/>
