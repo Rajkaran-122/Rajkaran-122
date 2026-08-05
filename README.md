@@ -8,11 +8,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=Who%20am%20I%3F%20👨‍💻&fontSize=30&fontColor=ffffff" width="100%"/>
 </div>
 
+<p align="center" style="font-size:20px; line-height:1.8;">
+
 just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
-i'm **Rajkaran** — a developer from **India** who genuinely enjoys building software.
+<br><br>
 
-i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
+i'm <b>Rajkaran</b> — a developer from <b>India</b> who genuinely enjoys building software.
+
+<br><br>
+
+i'm not the <b>"I know everything"</b> type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
+
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=🤝%20Let%27s%20Connect%20%E2%80%94%20I%20Don%27t%20Bite%20%28Usually%29&fontSize=28&fontColor=ffffff" width="100%"/>
@@ -46,9 +54,6 @@ i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=230&section=header&text=Thanks%20for%20stopping%20by!%20🤍&fontSize=30&fontColor=ffffff&desc=Enjoyed%20something%20I%20built%3F%0AConsider%20leaving%20a%20⭐.%0AIt%20really%20makes%20my%20day.&descAlign=50&descAlignY=68&descSize=18&descColor=e6edf3" width="100%"/>
 </div>
