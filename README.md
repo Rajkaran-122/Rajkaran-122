@@ -54,6 +54,7 @@ i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=230&section=header&text=Thanks%20for%20stopping%20by!%20🤍&fontSize=30&fontColor=ffffff&desc=Enjoyed%20something%20I%20built%3F%0AConsider%20leaving%20a%20⭐.%0AIt%20really%20makes%20my%20day.&descAlign=50&descAlignY=68&descSize=18&descColor=e6edf3" width="100%"/>
 </div>
+
 ---
 
 # Activity
