@@ -40,7 +40,7 @@ i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=if%20(youScrolledThisFar)%20%7B&fontSize=26&fontColor=10b981&desc=respect%2B%2B%3B%0Aconsole.log(%22you're%20a%20real%20one%20🤝%22)%3B%0A%7D&descAlign=50&descAlignY=70&descSize=18&descColor=10b981" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=if%20(youScrolledThisFar)%20%7B&fontSize=28&fontColor=ffffff&desc=%20%20respect%2B%2B%3B%0A%20%20console.log(%22you're%20a%20real%20one%20🤝%22)%3B%0A%7D&descAlign=50&descAlignY=70&descSize=18&descColor=e6edf3" width="100%"/>
 </div>
 
 ---
