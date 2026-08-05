@@ -11,15 +11,10 @@
 <p align="center" style="font-size:20px; line-height:1.8;">
 
 just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
-
 <br><br>
-
 i'm <b>Rajkaran</b> — a developer from <b>India</b> who genuinely enjoys building software.
-
 <br><br>
-
 i'm not the <b>"I know everything"</b> type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
-
 </p>
 
 <div align="center">
