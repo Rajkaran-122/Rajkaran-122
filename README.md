@@ -4,7 +4,9 @@
 
 ---
 
-### **who am i?**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=Who%20am%20I%3F%20👨‍💻&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
 
 just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
@@ -12,7 +14,10 @@ i'm **Rajkaran** — a developer from **India** who genuinely enjoys building so
 
 i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
 
-### **🤝 let's connect — i don't bite (usually)**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=🤝%20Let%27s%20Connect%20%E2%80%94%20I%20Don%27t%20Bite%20%28Usually%29&fontSize=28&fontColor=ffffff" width="100%"/>
+</div>
+
 
 <div align="center">
 
