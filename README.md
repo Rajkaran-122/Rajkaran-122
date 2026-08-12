@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 📊 GitHub Contributions
+##  GitHub Contributions
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## 🚀 What I Build
+##  What I Build
 
 **Backend Systems • Microservices • REST APIs • Distributed Systems • AI/LLM Applications • Data Platforms • Full-Stack Products**
 
