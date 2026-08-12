@@ -20,8 +20,14 @@ jobs:
         with:
           github_user_name: Rajkaran-122
           outputs: |
-            profile/github-snake.svg
+            profile/github-snake.svg?color_snake=#11c0df&color_dots=#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127
             profile/github-snake-dark.svg?palette=github-dark
+
+      - name: Verify generated files
+        run: |
+          test -s profile/github-snake.svg
+          test -s profile/github-snake-dark.svg
+          ls -lh profile/github-snake*.svg
 
       - name: Commit generated snake
         run: |
