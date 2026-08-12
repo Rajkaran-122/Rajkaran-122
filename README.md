@@ -53,17 +53,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajkaran-122&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Rajkaran's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkaran-122&hide_border=true" alt="Rajkaran's GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Rajkaran-122&theme=github-dark&hide_border=true" alt="Rajkaran's GitHub Streak" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/main/overwatch.svg" alt="GitHub contribution activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkaran-122&theme=github-compact&hide_border=true&area=true" alt="Rajkaran's GitHub Activity Graph" width="100%"/>
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkaran-122&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Rajkaran's GitHub contribution activity" width="100%"/>
 
 </div>
 
