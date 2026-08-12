@@ -16,8 +16,65 @@
 
 ### I'm not the **"I know everything"** type. I Google stuff daily. Stack Overflow is my second home. But I learn fast, ship faster, and I don't give up on bugs easily.
 
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=🤝%20Let%27s%20Connect%20%E2%80%94%20I%20Don%27t%20Bite%20%28Usually%29&fontSize=28&fontColor=ffffff" width="100%"/>
+
+### ☕ Backend & Core
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=8" />
+
+### 🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+
+### ⚡ Distributed Systems & DevOps
+<img src="https://skillicons.dev/icons?i=kafka,docker,git,github,linux&perline=8" />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&perline=8" />
+
+### 🤖 AI / Data / APIs
+<img src="https://skillicons.dev/icons?i=python,fastapi&perline=8" />
+
+</div>
+
+<div align="center">
+
+**Java • Spring Boot • Spring Cloud • REST APIs • Hibernate/JPA • Microservices • SQL • Redis • Kafka • Docker • React • Python • FastAPI • AI/LLM Applications**
+
+</div>
+
+---
+
+## 📊 GitHub Contributions
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajkaran-122&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Rajkaran's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkaran-122&hide_border=true" alt="Rajkaran's GitHub Streak" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/main/overwatch.svg" alt="GitHub contribution activity" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
 </div>
 
 ---
@@ -44,29 +101,8 @@
 
 ---
 
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=230&section=header&text=Thanks%20for%20stopping%20by!%20🤍&fontSize=30&fontColor=ffffff&desc=Enjoyed%20something%20I%20built%3F%0AConsider%20leaving%20a%20⭐.%0AIt%20really%20makes%20my%20day.&descAlign=50&descAlignY=68&descSize=18&descColor=e6edf3" width="100%"/>
-</div>
-
----
-
-# Activity
-
----
-
-
-![github activity animated](./profile-3d-contrib/profile-season-animate.svg)
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=if%20(youScrolledThisFar)%20%7B&fontSize=28&fontColor=ffffff&desc=%20%20respect%2B%2B%3B%0A%20%20console.log(%22you're%20a%20real%20one%20🤝%22)%3B%0A%7D&descAlign=50&descAlignY=70&descSize=18&descColor=e6edf3" width="100%"/>
 </div>
 
