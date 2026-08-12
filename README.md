@@ -24,6 +24,8 @@
 
 ##  GitHub Contributions
 
+---
+
 </div>
 
 <div align="center">
@@ -31,6 +33,8 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
 
 <br/>
+
+---
 
 <img src="./profile/github-stats.svg" alt="Rajkaran's GitHub Stats" />
 
