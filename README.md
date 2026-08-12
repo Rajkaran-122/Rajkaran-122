@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
 
 <br/>
 
