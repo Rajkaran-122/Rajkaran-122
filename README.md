@@ -73,7 +73,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkaran-122&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Rajkaran's GitHub contribution activity" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img src="./profile/github-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+</picture>
 
 </div>
 
