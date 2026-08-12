@@ -28,13 +28,16 @@
 
 <br/>
 
+
+---
+
 <img src="./profile/github-stats.svg" alt="Rajkaran's GitHub Stats" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -48,7 +51,7 @@
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 <div align="center">
 
