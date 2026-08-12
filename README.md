@@ -1,66 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hey,%20I'm%20Rajkaran%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20stuff%20that%20works.%20Sometimes%20it%20even%20looks%20good.&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
-</div> 
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=220&section=header&text=Hey,%20I'm%20Rajkaran%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20stuff%20that%20works.%20Sometimes%20it%20even%20looks%20good.&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+</div>
 
 ---
 
-### **who am i?**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=Who%20am%20I%3F%20👨‍💻&fontSize=30&fontColor=ffffff" width="100%"/>
+</div>
 
-just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
+<p align="center" style="font-size:20px; line-height:1.8;">
 
-i'm **Rajkaran** — a developer from **India**  who genuinely enjoys building software.
+### Just a real dude who loves writing code, breaking things, fixing them at 3am, and pushing commits nobody asked for.
 
-i'm not the **"I know everything"** type. i google stuff daily. stackoverflow is my second home. but i learn fast, ship faster, and i don't give up on bugs easily.
+### I'm **Rajkaran** — a developer from **India** who genuinely enjoys building software.
 
-### **🤝 let's connect — i don't bite (usually)**
+### I'm not the **"I know everything"** type. I Google stuff daily. Stack Overflow is my second home. But I learn fast, ship faster, and I don't give up on bugs easily.
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ☕ Backend & Core
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=8" />
+
+### 🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
+
+### ⚡ Distributed Systems & DevOps
+<img src="https://skillicons.dev/icons?i=kafka,docker,git,github,linux&perline=8" />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&perline=8" />
+
+### 🤖 AI / Data / APIs
+<img src="https://skillicons.dev/icons?i=python,fastapi&perline=8" />
+
+</div>
+
+<div align="center">
+
+**Java • Spring Boot • Spring Cloud • REST APIs • Hibernate/JPA • Microservices • SQL • Redis • Kafka • Docker • React • Python • FastAPI • AI/LLM Applications**
+
+</div>
+
+---
+
+## 📊 GitHub Contributions
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
+
+<br/>
+
+<img src="./profile/github-stats.svg" alt="Rajkaran's GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=Rajkaran-122&theme=github-dark&hide_border=true" alt="Rajkaran's GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkaran-122&theme=github-compact&hide_border=true&area=true" alt="Rajkaran's GitHub Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+  <img src="./profile/github-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+**Backend Systems • Microservices • REST APIs • Distributed Systems • AI/LLM Applications • Data Platforms • Full-Stack Products**
+
+</div>
+
+---
 
 <div align="center">
 
 <a href="https://github.com/Rajkaran-122">
-  <img src="https://img.shields.io/badge/-Rajkaran--122-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rajkaran--122-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://portfolio-raaj.vercel.app">
-  <img src="https://img.shields.io/badge/-Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/rajkaran-yadav">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:yadavrajkaran854@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</a>
+
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-
-<br>
-
-```javascript
-if (youScrolledThisFar) {
-    respect++;
-    console.log("you're a real one 🤝");
-}
-```
-
-<br>
-
-**thanks for visiting my little corner of github.**
-
-if something i built helped you — or you just thought it was cool — drop a ⭐
-
-it costs you nothing but it genuinely makes my day.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=if%20(youScrolledThisFar)%20%7B&fontSize=28&fontColor=ffffff&desc=%20%20respect%2B%2B%3B%0A%20%20console.log(%22you're%20a%20real%20one%20🤝%22)%3B%0A%7D&descAlign=50&descAlignY=70&descSize=18&descColor=e6edf3" width="100%"/>
 </div>
 
-## Activity
+---
 
-![github activity animated](./profile-3d-contrib/profile-season-animate.svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=200&section=footer" width="100%"/>
+</div>
