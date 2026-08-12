@@ -20,16 +20,17 @@
 
 ---
 
-##  GitHub Contributions
----
+<div align="center">
+
+## 📊 GitHub Contributions
+
+</div>
+
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
 
 <br/>
-
-
----
 
 <img src="./profile/github-stats.svg" alt="Rajkaran's GitHub Stats" />
 
@@ -37,7 +38,11 @@
 
 ---
 
-##  Contribution Activity
+<div align="center">
+
+## 🐍 Contribution Activity
+
+</div>
 
 <div align="center">
 
@@ -51,9 +56,9 @@
 
 ---
 
-##  What I Build
-
 <div align="center">
+
+## 🚀 What I Build
 
 **Backend Systems • Microservices • REST APIs • Distributed Systems • AI/LLM Applications • Data Platforms • Full-Stack Products**
 
