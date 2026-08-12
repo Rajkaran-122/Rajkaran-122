@@ -20,35 +20,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ☕ Backend & Core
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=8" />
-
-### 🗄️ Databases & Data
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8" />
-
-### ⚡ Distributed Systems & DevOps
-<img src="https://skillicons.dev/icons?i=kafka,docker,git,github,linux&perline=8" />
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&perline=8" />
-
-### 🤖 AI / Data / APIs
-<img src="https://skillicons.dev/icons?i=python,fastapi&perline=8" />
-
-</div>
-
-<div align="center">
-
-**Java • Spring Boot • Spring Cloud • REST APIs • Hibernate/JPA • Microservices • SQL • Redis • Kafka • Docker • React • Python • FastAPI • AI/LLM Applications**
-
-</div>
-
----
-
 ## 📊 GitHub Contributions
 
 <div align="center">
@@ -58,12 +29,6 @@
 <br/>
 
 <img src="./profile/github-stats.svg" alt="Rajkaran's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=Rajkaran-122&theme=github-dark&hide_border=true" alt="Rajkaran's GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkaran-122&theme=github-compact&hide_border=true&area=true" alt="Rajkaran's GitHub Activity Graph" width="100%"/>
 
 </div>
 
