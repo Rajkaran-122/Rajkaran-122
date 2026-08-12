@@ -57,7 +57,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajkaran-122&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Rajkaran's GitHub Stats" />
+<img src="./profile/github-stats.svg" alt="Rajkaran's GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=Rajkaran-122&theme=github-dark&hide_border=true" alt="Rajkaran's GitHub Streak" />
 
