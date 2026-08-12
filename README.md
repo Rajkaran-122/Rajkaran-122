@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="Rajkaran's 3D GitHub contribution profile" width="100%"/>
 
 <br/>
 
@@ -74,6 +74,16 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Rajkaran-122/Rajkaran-122/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+**Backend Systems • Microservices • REST APIs • Distributed Systems • AI/LLM Applications • Data Platforms • Full-Stack Products**
 
 </div>
 
