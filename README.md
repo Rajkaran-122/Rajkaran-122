@@ -19,9 +19,13 @@
 </p>
 
 ---
-![Profile Views](https://komarev.com)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajkaran-122&label=Profile%20Views&color=0e75b6&style=flat" alt="Rajkaran's profile views"/>
+</div>
 
 ---
+
 <div align="center">
 
 ##  GitHub Contributions
